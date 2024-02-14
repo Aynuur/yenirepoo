@@ -1,4 +1,4 @@
-
+bu ibrahimden yaptigim son degisiklik
 merhaba bunu masterdan olusturdum
 bunlari aynurdan ekledim
 
